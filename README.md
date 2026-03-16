@@ -28,7 +28,7 @@ Before running the script, you need to have the following installed on your syst
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Maldix-Youtube-Downloader.git](https://github.com/YOUR_USERNAME/Maldix-Youtube-Downloader.git)
+    git clone [https://github.com/Ps4sro/Maldix-Youtube-Downloader.git](https://github.com/Ps4sro/Maldix-Youtube-Downloader.git)
     cd Maldix-Youtube-Downloader
     ```
 
